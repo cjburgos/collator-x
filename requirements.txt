@@ -1,0 +1,9 @@
+cbpro 
+numpy 
+pymongo 
+PyYAML 
+requests 
+six 
+sortedcontainers 
+TA-Lib 
+websocket-client 

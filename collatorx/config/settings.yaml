@@ -1,0 +1,11 @@
+default:
+  coinbase: 
+    name: coinbase
+    svc_id: cbpro
+    api_url: https://api.pro.coinbase.com/
+    credentials:
+      api_key: 
+      api_secret: 
+      api_pass: 
+
+
